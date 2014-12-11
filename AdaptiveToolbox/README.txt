@@ -10,4 +10,3 @@ The adaptive toolbox:
     * Trade-off heuristics (e.g. 1/N, Tallying)
     * Satisficingheuristics
     * Social heuristics(e.g.tit for tat, imitate-the-majority, imitate-the-successful, default heuristic, social circle heuristic, averaging, choosing)
-.
