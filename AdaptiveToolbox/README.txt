@@ -4,7 +4,7 @@ The adaptive toolbox:
 
 1. The collection of elements (e.g. search rules, stopping rules, decision rules) for constructing heuristics
 2. Core mental capacities that building blocks exploit (e.g. recognition memory, depth perception, frequency monitoring, object tracking, ability to imitate)
-3. A specific group of rules or heuristics rather than a general-purpose decision-making algorithm. These heuristics are fast, frugal, and computationally cheap, but are less consistent, coherent, and general.[3] Common examples include:
+3. A specific group of rules or heuristics rather than a general-purpose decision-making algorithm. These heuristics are fast, frugal, and computationally cheap, but are less consistent, coherent, and general. Common examples include:
     * Recognition-based heuristics (e.g. Recognition heuristic, fluency heuristic)
     * One-reason decision-making (e.g. Take-the-best, Fast and Frugal Trees)
     * Trade-off heuristics (e.g. 1/N, Tallying)
