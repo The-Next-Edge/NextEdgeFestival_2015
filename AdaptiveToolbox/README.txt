@@ -8,5 +8,5 @@ The adaptive toolbox:
     * Recognition-based heuristics (e.g. Recognition heuristic, fluency heuristic)
     * One-reason decision-making (e.g. Take-the-best, Fast and Frugal Trees)
     * Trade-off heuristics (e.g. 1/N, Tallying)
-    * Satisficingheuristics
+    * Satisficing heuristics
     * Social heuristics(e.g.tit for tat, imitate-the-majority, imitate-the-successful, default heuristic, social circle heuristic, averaging, choosing)
